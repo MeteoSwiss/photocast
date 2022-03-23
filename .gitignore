@@ -1,0 +1,20 @@
+setup_common.rc
+setup_develop.rc
+
+.python-version
+__pycache__
+
+# IDE files
+photocast-repro.iml
+.idea
+*.Rproj
+.Rproj.user
+
+# R session saves
+.Rhistory
+.RData
+
+# Temporary files
+~$*
+tmp/*
+*#

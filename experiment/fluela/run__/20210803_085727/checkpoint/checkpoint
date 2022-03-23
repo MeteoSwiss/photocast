@@ -1,0 +1,6 @@
+model_checkpoint_path: "ckpt-319"
+all_model_checkpoint_paths: "ckpt-318"
+all_model_checkpoint_paths: "ckpt-319"
+all_model_checkpoint_timestamps: 1629788802.6457434
+all_model_checkpoint_timestamps: 1629794391.6537082
+last_preserved_timestamp: 1629771987.4711552
