@@ -1,6 +1,6 @@
 # Photographic Visualizations of Weather Forecasts
 
-![A sequence of images taken by the Cevio camera (top row), and the corresponding images synthesized by the generator (bottom row)](nowcasting_criteria_satisfied.png "Photographic nowcasting visualization")
+![A sequence of images taken by the Cevio camera (top row), and the corresponding images synthesized by the generator (bottom row)](photographic-visualization.png "Photographic nowcasting visualization")
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6962721.svg)](https://doi.org/10.5281/zenodo.6962721)
 
