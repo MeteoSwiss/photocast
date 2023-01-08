@@ -4,7 +4,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6962721.svg)](https://doi.org/10.5281/zenodo.6962721)
 
-This is the companion repository for our paper on [Photographic Visualizations of Weather Forecasts](https://arxiv.org/abs/2203.15601). It contains the Tensorflow implementations of the generator and discriminator networks, as well as the code to reproduce the experiments presented in Sections 1.2 and 4 of the paper.
+This is the companion repository for our paper on [Photographic Visualizations of Weather Forecasts](https://doi.org/10.1175/AIES-D-22-0028.1). It contains the Tensorflow implementations of the generator and discriminator networks, as well as the code to reproduce the experiments presented in Sections 1.2 and 4 of the paper.
 
 The data used in the expert evaluations and their detailed results (summarized in Tables 2, 3 and 4 of the paper) are also available.
 
